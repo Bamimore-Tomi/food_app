@@ -1,0 +1,17 @@
+{
+  "name": "learningapp",
+  "displayName": "learningapp",
+  "expo": {
+    "name": "learningapp",
+    "slug": "learningapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
